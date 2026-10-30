@@ -12,6 +12,7 @@
 | **Course & Branch** | B.Tech. Computer Science & Engineering |
 
 **Live demo:** https://adit-aoe.github.io/astar-state-space-explorer/astar-explorer.html
+
 **Code:** https://github.com/Adit-AoE/astar-state-space-explorer/blob/main/astar-explorer.html
 
 ---
