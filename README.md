@@ -8,7 +8,7 @@
 | **Name** | Aditya Singh |
 | **Registration No.** | 2427030212 |
 | **Section** | E |
-| **Institution** | Manipal University Jaipur (B.Tech, Computer Science & Engineering) |
+| **Institution** | Manipal University Jaipur |
 | **Course & Branch** | B.Tech. Computer Science & Engineering |
 
 **Live demo:** https://adit-aoe.github.io/astar-state-space-explorer/astar-explorer.html
