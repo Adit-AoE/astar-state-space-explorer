@@ -21,6 +21,14 @@
 
 An interactive, step-by-step visualizer of the **A\* search algorithm** on a 7×9 grid. The user can place walls, move the start and goal, and watch A* expand one node at a time while the page explains *why* each node was chosen. It runs entirely in the browser: no installation, no backend.
 
+## How to Use
+ 
+1. Open the live demo (or `astar-explorer.html` locally).
+2. Click **Step 1 Node** to let A* expand a single node, **Step Back** to undo a step, or **Auto-Play** to run the whole search. The **Interval** menu sets the speed, and **Reset Search** restarts while keeping your walls.
+3. Click or drag on the grid in **Draw/Erase Walls** mode to build obstacles. Switch to **Move Start (S)** or **Move Goal (G)** and click a tile to reposition them.
+4. Try the presets: *Obstacle Barrier*, *U-Trap Backtrack*, *Tie-Break Demo* and *Clear Walls*.
+5. Hover any tile to see its `h`, `g` and `f` calculation. The right-hand panels show the next node A* will expand and why, and the open list in exact extraction order. The legend under the grid explains the tile colours.
+
 ## Problem Formulation
 
 | Component | Definition |
